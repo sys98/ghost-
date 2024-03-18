@@ -1,0 +1,29 @@
+{
+  "name": "ghost-upyun-store",
+  "version": "3.0.0",
+  "description": "Ghost Upyun plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sys98/upyun-plugin.git"
+  },
+  "keywords": [
+    "upyun",
+    "ghost"
+  ],
+  "author": "Jet Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sys98/upyun-plugin/issues"
+  },
+  "homepage": "https://github.com/sys98/upyun-plugin#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "ghost-storage-base": "0.0.3",
+    "moment": "^2.24.0",
+    "upyun": "^3.3.11"
+  }
+}
