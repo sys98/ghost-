@@ -46,9 +46,9 @@ npm i
 
 # 许可证
 ```
-The MIT License (MIT)
+MIT License
 
-Copyright (c) 2017 Li Jie
+Copyright (c) 2024 sys98
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
